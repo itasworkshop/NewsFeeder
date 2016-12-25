@@ -49,6 +49,12 @@
 			<version>1.0</version>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/org.rometools/rome-modules -->
+		<dependency>
+			<groupId>org.rometools</groupId>
+			<artifactId>rome-modules</artifactId>
+			<version>1.0</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
